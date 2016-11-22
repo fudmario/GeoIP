@@ -117,4 +117,17 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <metadata name="imgList.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnAdd.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAC3SURBVDhPY6A6CFwXKOazPqAeiE8B8UsoPuW7LrDOc1WoKFQZduC7wT8KqPgLEP/HgT/7bPAP
+        hypHBd7rAkOBCv6hacCG/wHVBkG1QQDIaUCJj2gK/3ec6gJjdHEgfg/0qjBUO9Dp6wOasCj6DwPY5IC4
+        HqqdgcFnXeBFLAqg2nEacA6qHWgAKHCgEiAn4wJo3vkE1U4NAyj1AsWBSHE0ggBFCQkGKErKMICWmb5C
+        MXGZiXTAwAAA6WWdOhsILKkAAAAASUVORK5CYII=
+</value>
+  </data>
 </root>
